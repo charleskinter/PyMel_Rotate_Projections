@@ -89,3 +89,4 @@ def RotPro(menu1,menu2,rotationDict,*args):
     pm.ShowManipulators()
     
 
+rotProUI()
